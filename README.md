@@ -12,7 +12,7 @@
     An open-source, locally running implementation of OpenAI's Code Interpreter.<br>
     <br><a href="https://openinterpreter.com">Get early access to the desktop application.</a><br>
 </p>
-
+<br>
 <br>
 
 ![poster](https://github.com/KillianLucas/open-interpreter/assets/63927363/08f0d493-956b-4d49-982e-67d4b20c4b56)
